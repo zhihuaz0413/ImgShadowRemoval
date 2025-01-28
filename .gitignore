@@ -1,0 +1,10 @@
+__pycache__/*
+__pycache__/
+result
+result/*
+data/SRD
+data/SRD/*
+checkpoints/
+checkpoints/*
+output/
+output/*
